@@ -10,7 +10,6 @@ Welcome to the Problem Solving Repository! This repository contains various codi
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Contact](#contact)
 
 ## About
@@ -22,15 +21,6 @@ This repository is a collection of coding problems from various sources, includi
 The repository is organized into directories based on problem categories or sources. Each problem has its own directory containing:
 - A `README.md` file with the problem statement
 - A solution file (in a specific programming language)
-
-Example structure:
-.
-├── category_or_source/
-│ ├── problem_name/
-│ │ ├── README.md
-│ │ └── solution.py
-└── ...
-
 
 ## Getting Started
 
@@ -57,14 +47,7 @@ Ensure you have the following software installed on your machine:
 3. Open the solution file to see the provided solution.
 4. Run the solution on your local machine to test it.
 
-### Example
-
-Navigate to a problem directory and run the solution:
-```bash
-cd category_or_source/problem_name
-python solution.py
-
-### Contact
+## Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
